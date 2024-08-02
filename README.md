@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nioomeee, a student
 - 👀 I’m interested in API Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Shell Scripting
 - 💞️ I’m looking to collaborate here
 - 📫 How to reach me via gmail @ niomi2604@gmail.com
 - 😄 Pronouns: She/Her
