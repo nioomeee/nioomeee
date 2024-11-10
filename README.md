@@ -2,7 +2,7 @@
 - 👀 I’m interested in API Development
 - 🌱 I’m currently learning Shell Scripting
 - 💞️ I’m looking to collaborate here
-- 📫 How to reach me via gmail @ niomi2604@gmail.com
+- 📫 How to reach me via gmail @ nioomeee@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've been known to refactor code while waiting for my pizza to arrive! 🍕💻
 - 🚀 I love challenges and thrive under pressure.
