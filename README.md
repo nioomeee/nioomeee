@@ -10,7 +10,7 @@ I’m a **smart contracts developer** by day, **poster designer** by night, and 
 
 ### 🌟 Fun Facts About Me  
 - 🎯 **Hackathon Veteran**: I turn tight deadlines, coffee, and a bit of stress into polished projects.  
-- 🏆 **Competitive Coder**: Finalist at the **Lady Ada Coding Contest**—because coding challenges are my version of a good workout—without the sweat.  
+- 🏆 **Competitive Coder**: Finalist at the **Lady Ada Coding Contest**—which sounds fancier than it is, but hey, I'll take it. 
 - ✨ **Creative Multitasker**: Balancing tech and design without breaking a sweat (or at least trying not to).  
 
 ### 🛠️ My Toolbox  
