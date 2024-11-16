@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @nioomeee, a student
-- 👀 I’m interested in API Development
-- 🌱 I’m currently learning Shell Scripting
-- 💞️ I’m looking to collaborate here
-- 📫 How to reach me via gmail @ nioomeee@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I've been known to refactor code while waiting for my pizza to arrive! 🍕💻
-- 🚀 I love challenges and thrive under pressure.
-- 🔍 Explore my repos and feel free to reach out for collaboration or tech chats!
+# 👋 Hello, World!  
 
-<!---
-nioomeee/nioomeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **tech enthusiast** who loves exploring cutting-edge technologies and solving real-world problems.  
+
+### 🚀 What I Do  
+- 👩‍💻 **Blockchain Developer**: Building decentralized apps with **Ethereum**, **Polygon**, and **IPFS/Filecoin**.  
+- 🧠 **DSA Nerd**: I enjoy cracking challenging problems and optimizing solutions.  
+- 🌱 **Lifelong Learner**: Constantly diving into new tools, frameworks, and concepts to stay ahead.  
+
+### 🌟 A Little More About Me  
+- 🎯 **Hackathon Enthusiast**: I thrive on turning creative ideas into reality under tight deadlines.  
+- 🏆 **Competitive Coder**: Finalist at the **Lady Ada Coding Contest** and always looking for my next challenge.  
+- ✨ **Wellness Advocate**: Balancing tech with fitness, wellness, and mindfulness for a holistic lifestyle.  
+
+### 🛠️ My Toolbox  
+- **Blockchain**: Solidity | Ethereum | Polygon | IPFS/Filecoin  
+- **Frontend**: React.js | React Native  
+- **Backend**: Node.js | Spring Boot | Flask  
+- **Database**: MongoDB  
+- **DevOps**: AWS | Docker | GitHub  
+
+---
+
+🔗 **Let’s Connect**:  
+- [LinkedIn](https://www.linkedin.com/in/niomi-soni-0539a722a)  
+- [Instagram (Pink's Prints Designing)](https://www.instagram.com/pinks.prints)  
+
+✨ Let’s collaborate and build something amazing together!  
