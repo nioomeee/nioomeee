@@ -1,4 +1,4 @@
-# 👋 Hello World
+# 👋 Hello World!
 
 I’m a **smart contracts developer** by day, **poster designer** by night, and a full-time learner because let’s face it, tech never takes a break.  
 
