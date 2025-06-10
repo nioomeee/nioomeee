@@ -13,7 +13,7 @@
 - 🏆 **Competitive Coder**: Lady Ada Coding Contest finalist (sounds fancy, right?).  
 - ✨ **Creative Multitasker**: Juggling tech and design like a pro.
 
-  ### 💻 what i'm up to rn:
+### 💻 what i'm up to rn:
 
 - 🪐 **Metanest** — a cross-chain crypto wallet so intuitive even your dad might use it instead of calling you for help
 - 🔬 medical image classification research — training machines to read scans better than i read my own emotions
@@ -22,7 +22,7 @@
 ---
 
 ### dev energy:
--if (web3.isTooComplicated) { makeItSimple(); }
+- if (web3.isTooComplicated) { makeItSimple(); }
 - ui/ux should feel like gpay, not a phd thesis
 - deploy → cry → debug → deploy again 🔁
 
