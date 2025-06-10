@@ -1,6 +1,6 @@
-# 👋 Hello World!
+# 👋 Hey besties!
 
-I’m a **smart contracts developer** by day, **poster designer** by night, and always learning because tech never sleeps.  
+> welcome to my github lair 🕸️ where the bugs fear me and the smart contracts behave (mostly).
 
 ### 🚀 What I Do  
 - 👩‍💻 **Smart Contracts**: Writing code on **Ethereum**, **Polygon**, and **IPFS/Filecoin**—making sure computers keep their promises.  
@@ -11,7 +11,21 @@ I’m a **smart contracts developer** by day, **poster designer** by night, and 
 ### 🌟 Fun Facts  
 - 🎯 **Hackathon Veteran**: Turning coffee and deadlines into polished projects.  
 - 🏆 **Competitive Coder**: Lady Ada Coding Contest finalist (sounds fancy, right?).  
-- ✨ **Creative Multitasker**: Juggling tech and design like a pro.  
+- ✨ **Creative Multitasker**: Juggling tech and design like a pro.
+
+  ### 💻 what i'm up to rn:
+
+- 🪐 **Metanest** — a cross-chain crypto wallet so intuitive even your dad might use it instead of calling you for help
+- 🔬 medical image classification research — training machines to read scans better than i read my own emotions
+- 📚 prepping for cmat — balancing bits, bytes & brain cells 🧠⚔️
+
+---
+
+### dev energy:
+-if (web3.isTooComplicated) { makeItSimple(); }
+- ui/ux should feel like gpay, not a phd thesis
+- deploy → cry → debug → deploy again 🔁
+
 
 ### 🛠️ My Toolbox  
 - **Smart Contracts**: Solidity | Ethereum | Polygon | IPFS/Filecoin  
