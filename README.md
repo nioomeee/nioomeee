@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/uVcpqD9LFJA9a/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/WFmjWdG3p9Jrq/giphy.gif" width="400">
 </p>
 
 <h1 align="center">
@@ -44,6 +44,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ethers.js-2C2C34?style=for-the-badge&logo=ethers&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF600?style=for-the-badge&logo=hardhat&logoColor=black" />
