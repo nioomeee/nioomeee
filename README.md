@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]"><strong>linkedin</strong></a> • 
-  <a href="[YOUR_PORTFOLIO_URL_OR_BLOG]"><strong>portfolio</strong></a> • 
-  <a href="[YOUR_TWITTER/X_URL]"><strong>twitter/x</strong></a>
+  <a href="https://www.linkedin.com/in/niomi-langaliya-0539a722a/"><strong>linkedin</strong></a> • 
+  <a href="https://niomi-portfolio.vercel.app/"><strong>portfolio</strong></a> • 
+  <a href="https://x.com/nioomeee"><strong>twitter/x</strong></a>
 </p>
 
 ---
@@ -60,12 +60,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="[LINK_TO_METANEST_REPO]">MetaNest // Human-First Wallet</a></h3>
+      <h3><a href="https://github.com/nioomeee/metanest">MetaNest // Human-First Wallet</a></h3>
       <p>A gas-optimized crypto wallet built with a focus on human-first design. Features include contact management, gas savings, and transaction history. Because Web3 should feel easy. 💅</p>
       <small><strong>Tech:</strong> <code>Solidity</code>, <code>Next.js 13</code>, <code>Ethers.js</code>, <code>Hardhat</code></small>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="[LINK_TO_RESEARCH_PAPER_OR_REPO]">Hybrid CNN + Transformer Model</a></h3>
+      <h3><a href="https://github.com/malika-sh/EyeQ">Hybrid CNN + Transformer Model</a></h3>
       <p>My work from my medical imaging research internship. This hybrid model targets Explainable AI (XAI) goals, aiming for publication in a top-tier conference. 🧠</p>
       <small><strong>Tech:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Transformers</code>, <code>CNN</code></small>
     </td>
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nioomeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nioomeee&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
