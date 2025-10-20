@@ -35,7 +35,6 @@
 * 🌱 &nbsp; **Growing:** As a `Final-Year BSc. IT Student`.
 * 💻 &nbsp; **Building:** `MetaNest`, a crypto wallet that *doesn't* feel like a crypto wallet.
 * ⛓️ &nbsp; **Learning:** All things Zero-Knowledge (ZK) & advanced Smart Contracts.
-* 🎯 &nbsp; **Prepping:** To crack the `DAIICT DET` & score 350+ on the `CMAT`.
 * 🤝 &nbsp; **Open to:** `Smart Contract Developer` & `Web3` internships.
 
 <br />
