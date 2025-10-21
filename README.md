@@ -6,6 +6,10 @@
   Hey, I'm Niomi 🌻
 </h1>
 
+<h3 align="center">
+  <em>less gas, more sass. 💅</em>
+</h3>
+
 <p align="center">
   <em>a final-year BSc. IT student & <strong>Google Gemini Campus Ambassador</strong></em>
   <br />
@@ -16,10 +20,6 @@
   <a href="[YOUR_LINKEDIN_URL]"><strong>linkedin</strong></a> • 
   <a href="[YOUR_PORTFOLIO_URL_OR_BLOG]"><strong>portfolio</strong></a> • 
   <a href="[YOUR_TWITTER/X_URL]"><strong>twitter/x</strong></a>
-</p>
-
-<p align="center">
-  <strong>"less gas, more sass. 💅"</strong>
 </p>
 
 ---
