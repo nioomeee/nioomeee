@@ -18,6 +18,10 @@
   <a href="[YOUR_TWITTER/X_URL]"><strong>twitter/x</strong></a>
 </p>
 
+<p align="center">
+  <strong>"less gas, more sass. 💅"</strong>
+</p>
+
 ---
 
 ### <p align="center">✨ a little about the vibe</p>
